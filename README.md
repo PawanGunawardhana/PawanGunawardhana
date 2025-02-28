@@ -33,8 +33,7 @@
 - 📫 How to reach me **adpigunawardhana2@gmail.com**
 
 - ⚡ Fun fact **I can make people smile**
-
-
+  
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h3 align="left">Connect with me:</h3>
 
@@ -53,8 +52,8 @@
 
 ![Pawan Gunawardhana's github stats](https://github-readme-stats.vercel.app/api?username=PawanGunawardhana&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PawanGunawardhana&theme=tokyonight" alt="mystreak"/>
-![Pawan Gunawardhana's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PawanGunawardhana&theme=tokyonight&layout=compact)
-
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanGunawardhana&theme=tokyonight&layout=compact" alt="Top used Languages">
+<!--![Pawan Gunawardhana's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PawanGunawardhana&theme=tokyonight&layout=compact)-->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PawanGunawardhana&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>

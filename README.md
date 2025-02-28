@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Software Engineering, Cyber Security**
 
-- 💬 Ask me about **C#,.Net**
+- 💬 Ask me about **C#, .Net**
 
 - 📫 How to reach me **adpigunawardhana2@gmail.com**
 
